@@ -12,3 +12,10 @@ I wrote a [blogpost](http://oguching.com/blog/blabber) about what I mean.
 I work better with deadlines so I'm setting a deadline of October 31, 2016.
 
 Wish me Luck
+
+## Tools
+### Unit Test
+Explore these and pick one
+* Ava
+* Tape
+* Jest
