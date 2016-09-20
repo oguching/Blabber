@@ -20,3 +20,7 @@ Explore these and pick one
 * Tape
 * Jest
 * Intern
+
+### Type 
+* TypeScript
+* Flow (Flow has terrible windows performance, I hear)
