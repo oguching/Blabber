@@ -29,3 +29,6 @@ Explore these and pick one
 ### Transpiler
 * Babel
 * Bublé
+
+### Linter
+* StandardJS (No real contest here)
