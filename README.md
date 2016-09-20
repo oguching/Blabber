@@ -14,8 +14,9 @@ I work better with deadlines so I'm setting a deadline of October 31, 2016.
 Wish me Luck
 
 ## Tools
-### Unit Test
 Explore these and pick one
+
+### Unit Test
 * Ava
 * Tape
 * Jest
