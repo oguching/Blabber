@@ -24,3 +24,7 @@ Explore these and pick one
 ### Type 
 * TypeScript
 * Flow (Flow has terrible windows performance, I hear)
+
+### Transpiler
+* Babel
+* Bublé
