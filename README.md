@@ -7,6 +7,13 @@ It will not replace all of the services I use right now.
 It is just for me.
 Will use markdown and have a list of posts.
 
+I wrote a [blogpost](http://oguching.com/blog/blabber) about what I mean.
+
+I work better with deadlines so I'm setting a deadline of October 31, 2016.
+
+Wish me Luck
+
+
 TOOLS
 
 Types  
@@ -15,11 +22,6 @@ was not sure which one would be right. I use Windows and read Flow does not perf
 TypeScript. However after reading through the slide [Flow vs TypeScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html), I don't think for my toy project I need type checking.
 Let's keep things simple.
 
-I wrote a [blogpost](http://oguching.com/blog/blabber) about what I mean.
-
-I work better with deadlines so I'm setting a deadline of October 31, 2016.
-
-Wish me Luck
 
 ## Tools
 Explore these and pick one
